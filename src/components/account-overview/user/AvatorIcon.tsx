@@ -4,7 +4,7 @@ import { idText } from "typescript";
 
 const AvatarIcon = () => {
   return (
-    <View style={{ width: 100, height: 100, marginBottom: 10 }}>
+    <View style={{ width: 100, height: 100, marginBottom:10 }}>
       <Image
         source={require("./../../../../assets/img/avatar-2.png")}
         style={{
